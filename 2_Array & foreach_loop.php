@@ -23,7 +23,7 @@ for($i=0 ; $i<$counting_length ;$i++){
 
 //Decalare Associative Array 
 echo "<br><br>";
-$subject=array("Khanam"=>"MIC","Sahel"=>"ECE","Seema"=>"Civil");          //---> SYNTAX: variable_name= array("Subject" => "key");
+$subject=array("Khanam"=>"MIC","Sahel"=>"ECE","Seema"=>"Civil");          //---> SYNTAX: variable_name= array("key" => "value");
 echo $subject["Khanam"];
 echo "<br>";
 echo $subject["Sahel"];
