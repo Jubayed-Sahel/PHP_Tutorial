@@ -105,11 +105,11 @@ class Car{
     }
 }
 
-$BMW = new Car();    //-----> Object names BMW is Created
+$BMW = new Car();    //-----> Object named BMW is Created
 $BMW->setname("BMW CAR");
 echo $BMW->getname();
 
-$toyota = new Car();   //-----> Object names BMW is Created
+$toyota = new Car();   //-----> Object named toyota is Created
 
 
 
