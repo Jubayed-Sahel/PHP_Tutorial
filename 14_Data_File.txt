@@ -1,0 +1,29 @@
+CSE 311, titled "Database Management Systems," is a core course offered by the Department of Electrical and Computer Engineering at North South University (NSU). This course introduces students to the fundamental concepts and applications of database management systems (DBMS). 
+
+**Course Objectives:**
+- Introduce the foundational principles of database systems.
+- Highlight the limitations of traditional flat file systems.
+- Teach data modeling techniques, including Entity-Relationship (ER) modeling.
+- Cover the relational database model and its implementation.
+- Provide hands-on experience with Structured Query Language (SQL) for database creation and manipulation.
+- Discuss database design, normalization, and optimization techniques.
+- Explore transaction management, concurrency control, and recovery mechanisms.
+- Introduce advanced topics such as distributed databases and data warehousing.
+
+**Course Structure:**
+- **Lectures:** Theoretical concepts and practical applications of DBMS.
+- **Laboratory Sessions (CSE 311L):** Weekly mandatory lab sessions complement the lectures, providing practical experience in database design and implementation. 
+- **Assignments and Projects:** Hands-on tasks to design, develop, and test database solutions for various scenarios.
+
+**Prerequisites:**
+Students are expected to have completed foundational courses in programming and data structures before enrolling in CSE 311. 
+
+**Learning Outcomes:**
+Upon successful completion of the course, students will be able to:
+- Understand and articulate the core concepts of database systems.
+- Design and implement efficient and normalized database schemas.
+- Develop complex SQL queries for data manipulation and retrieval.
+- Apply transaction management and concurrency control techniques.
+- Address real-world problems by developing robust database solutions.
+
+For more detailed information, students are encouraged to consult the official course outline provided by the Department of Electrical and Computer Engineering at NSU.  
